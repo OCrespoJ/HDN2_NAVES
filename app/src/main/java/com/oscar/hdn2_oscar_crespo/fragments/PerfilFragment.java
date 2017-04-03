@@ -53,6 +53,7 @@ public class PerfilFragment extends Fragment implements View.OnClickListener {
         usuario = (TextView) view.findViewById(R.id.usuario);
         btnFoto = (Button) view.findViewById(R.id.btnFoto);
         imgFotoPerfil = (ImageView) view.findViewById(R.id.imgFotoPerfil);
+        SELECT_FILE = 1;
 
         UsuarioBean usuarioBean = preferencias.getUsuario();
 
