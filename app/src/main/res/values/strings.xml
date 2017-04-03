@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">HDN2_OSCAR_CRESPO</string>
+    <string name="perfil">Perfil</string>
+    <string name="descripcion">Descripción</string>
+    <string name="personajes">Personajes</string>
+    <string name="objetos">Objetos</string>
+    <string name="novedades">Novedades/Trucos</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="salir">Salir</string>
+    <string name="tituloDescripcion1">
+        NeoN.ShooteR
+    </string>
+    <string name="tituloDescripcion2">
+        Historia
+    </string>
+    <string name="tituloDescripcion3">
+        El juego
+    </string>
+    <string name="rellenoDescripcion1">
+        En este juego llamado Neon.Shooter nos pondremos en el papel de una nave
+        que deberá proteger las calles de la ciudad Neon de las naves enemigas que
+        quieren destruir la ciudad.
+    </string>
+    <string name="rellenoDescripcion2">
+        Es un juego desarrollado en 3D pero con una vista 2D, en el que con nuestro protagonista,
+        situado a la izquierda de la pantalla, tendremos que abatir las oleadas de enemigos que
+        se aproximen por la derecha.
+    </string>
+    <string name="rellenoDescripcion3">
+        Cuando eliminemos a todos los enemigos saldrá el boss
+        final, mucho mas fuerte que los demás enemigos, y tendremos que acabar con el para ganar
+        el juego. Tiene una elevada dificultad ya que los enemigos son rápidos y tendremos que
+        matarlos para recuperar vida o moriremos pronto.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="compartir">Compartir</string>
+    <string name="version">Versión: 1.0</string>
+    <string name="contacto">Contacto: oscar.crespo.024@gmail.com</string>
+    <string name="desarrollador">Desarrollador: Óscar Crespo Jiménez</string>
+    <string name="email">Introduce tu correo</string>
+    <string name="pass">Introduce tu contraseña</string>
+    <string name="entrar">INICIAR SESION</string>
+    <string name="registro">REGISTRARSE</string>
+    <string name="email_hint">Email</string>
+    <string name="nombre_hint">Nombre</string>
+    <string name="usuario_hint">Usuario</string>
+    <string name="pass_hint">Contraseña</string>
+    <string name="confirmPass_hint">Confirmar contraseña</string>
+    <string name="finalizar">FINALIZAR</string>
+    <string name="registrar">REGÍSTRATE</string>
+    <string name="iniciar">INICIAR SESION</string>
+    <string name="nombre">Nombre:</string>
+    <string name="correo">Correo:</string>
+    <string name="usuario">Usuario:</string>
+    <string name="cambiarFoto">Cambiar foto</string>
+</resources>

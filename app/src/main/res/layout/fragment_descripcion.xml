@@ -1,0 +1,107 @@
+<!-- TODO: Update blank fragment layout -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.oscar.hdn2_oscar_crespo.Fragments.DescripcionFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imgDescripcion1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:background="@drawable/neonshooter" />
+
+        <TextView
+            android:id="@+id/tituloDescripcion1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:text="@string/tituloDescripcion1"
+            android:textColor="@color/myColorTextDark"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tituloDescripcion2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="@string/tituloDescripcion2"
+            android:textColor="@color/myColorTextDark"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/rellenoDescripcion1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="@string/rellenoDescripcion1"
+            android:textColor="@color/myColorTextDark"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/tituloDescripcion3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="@string/tituloDescripcion3"
+            android:textColor="@color/myColorTextDark"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/rellenoDescripcion2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="20dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="@string/rellenoDescripcion2"
+            android:textColor="@color/myColorTextDark"
+            android:textSize="18dp" />
+
+        <ImageView
+            android:id="@+id/imgDescripcion2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/imagen_descripcion" />
+
+        <TextView
+            android:id="@+id/rellenoDescripcion3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="20dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="@string/rellenoDescripcion3"
+            android:textColor="@color/myColorTextDark"
+            android:textSize="18dp" />
+
+        <Button android:id="@+id/btnCompartirDescripcion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/compartir"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@color/myColorPrimary"
+            android:textColor="@color/myColorWhite"/>
+
+    </LinearLayout>
+
+</ScrollView>
+

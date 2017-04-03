@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/item_descripcion"
+            android:title="@string/descripcion"/>
+        <item android:id="@+id/item_personajes"
+            android:title="@string/personajes"/>
+        <item android:id="@+id/item_objetos"
+            android:title="@string/objetos"/>
+        <item android:id="@+id/item_novedades"
+            android:title="@string/novedades"/>
+        <item android:id="@+id/item_ajustes"
+            android:title="@string/ajustes"/>
+        <item android:id="@+id/item_salir"
+            android:title="@string/salir"/>
+    </group>
+</menu>
